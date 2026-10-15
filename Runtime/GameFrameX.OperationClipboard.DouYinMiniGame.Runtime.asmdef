@@ -1,0 +1,25 @@
+{
+    "name": "GameFrameX.OperationClipboard.DouYinMiniGame.Runtime",
+    "rootNamespace": "GameFrameX.OperationClipboard.DouYinMiniGame.Runtime",
+    "references": [
+        "GameFrameX.Runtime",
+        "GameFrameX.OperationClipboard.Runtime",
+        "TTWebGL",
+        "TTLitJson"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.bytedance.starksdk",
+            "expression": "",
+            "define": "ENABLE_DOUYIN_MINI_GAME_OPERATIONCLIPBOARD"
+        }
+    ],
+    "noEngineReferences": false
+}
