@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gameframex/com.gameframex.unity.operationclipboard.douyinminigame/compare/1.0.0...1.0.1) (2026-11-10)
+
+
+### Bug Fixes
+
+* **operationclipboard.douyinminigame:** 添加完整 link.xml 防代码裁剪保护 ([81c3065](https://github.com/gameframex/com.gameframex.unity.operationclipboard.douyinminigame/commit/81c3065e99597d6bcf7554ca82f1831174d8361d))
+
 # 1.0.0 (2026-10-15)
 
 
